@@ -1,0 +1,4 @@
+C:/Users/bai/Desktop/BaiMotorLib/build/CMakeFiles/bai_motor_lib.dir
+C:/Users/bai/Desktop/BaiMotorLib/build/CMakeFiles/test.dir
+C:/Users/bai/Desktop/BaiMotorLib/build/CMakeFiles/edit_cache.dir
+C:/Users/bai/Desktop/BaiMotorLib/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,50 @@
+[
+{
+  "directory": "C:/Users/bai/Desktop/BaiMotorLib/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe  @CMakeFiles/bai_motor_lib.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\bai_motor_lib.dir\\BaiMotorLib\\drivers\\dc_motor\\test_drv\\test_drv.c.obj -c C:\\Users\\bai\\Desktop\\BaiMotorLib\\BaiMotorLib\\drivers\\dc_motor\\test_drv\\test_drv.c",
+  "file": "C:/Users/bai/Desktop/BaiMotorLib/BaiMotorLib/drivers/dc_motor/test_drv/test_drv.c",
+  "output": "CMakeFiles/bai_motor_lib.dir/BaiMotorLib/drivers/dc_motor/test_drv/test_drv.c.obj"
+},
+{
+  "directory": "C:/Users/bai/Desktop/BaiMotorLib/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe  @CMakeFiles/bai_motor_lib.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\bai_motor_lib.dir\\BaiMotorLib\\drivers\\sensors\\test_drv\\test_edrv.c.obj -c C:\\Users\\bai\\Desktop\\BaiMotorLib\\BaiMotorLib\\drivers\\sensors\\test_drv\\test_edrv.c",
+  "file": "C:/Users/bai/Desktop/BaiMotorLib/BaiMotorLib/drivers/sensors/test_drv/test_edrv.c",
+  "output": "CMakeFiles/bai_motor_lib.dir/BaiMotorLib/drivers/sensors/test_drv/test_edrv.c.obj"
+},
+{
+  "directory": "C:/Users/bai/Desktop/BaiMotorLib/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe  @CMakeFiles/bai_motor_lib.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\bai_motor_lib.dir\\BaiMotorLib\\common\\motor.c.obj -c C:\\Users\\bai\\Desktop\\BaiMotorLib\\BaiMotorLib\\common\\motor.c",
+  "file": "C:/Users/bai/Desktop/BaiMotorLib/BaiMotorLib/common/motor.c",
+  "output": "CMakeFiles/bai_motor_lib.dir/BaiMotorLib/common/motor.c.obj"
+},
+{
+  "directory": "C:/Users/bai/Desktop/BaiMotorLib/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe  @CMakeFiles/bai_motor_lib.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\bai_motor_lib.dir\\BaiMotorLib\\common\\motor_manager.c.obj -c C:\\Users\\bai\\Desktop\\BaiMotorLib\\BaiMotorLib\\common\\motor_manager.c",
+  "file": "C:/Users/bai/Desktop/BaiMotorLib/BaiMotorLib/common/motor_manager.c",
+  "output": "CMakeFiles/bai_motor_lib.dir/BaiMotorLib/common/motor_manager.c.obj"
+},
+{
+  "directory": "C:/Users/bai/Desktop/BaiMotorLib/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe  @CMakeFiles/bai_motor_lib.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\bai_motor_lib.dir\\BaiMotorLib\\common\\motorlib_time_sys.c.obj -c C:\\Users\\bai\\Desktop\\BaiMotorLib\\BaiMotorLib\\common\\motorlib_time_sys.c",
+  "file": "C:/Users/bai/Desktop/BaiMotorLib/BaiMotorLib/common/motorlib_time_sys.c",
+  "output": "CMakeFiles/bai_motor_lib.dir/BaiMotorLib/common/motorlib_time_sys.c.obj"
+},
+{
+  "directory": "C:/Users/bai/Desktop/BaiMotorLib/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe  @CMakeFiles/bai_motor_lib.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\bai_motor_lib.dir\\BaiMotorLib\\controllers\\controller.c.obj -c C:\\Users\\bai\\Desktop\\BaiMotorLib\\BaiMotorLib\\controllers\\controller.c",
+  "file": "C:/Users/bai/Desktop/BaiMotorLib/BaiMotorLib/controllers/controller.c",
+  "output": "CMakeFiles/bai_motor_lib.dir/BaiMotorLib/controllers/controller.c.obj"
+},
+{
+  "directory": "C:/Users/bai/Desktop/BaiMotorLib/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe  @CMakeFiles/bai_motor_lib.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\bai_motor_lib.dir\\BaiMotorLib\\controllers\\openloop\\openloop.c.obj -c C:\\Users\\bai\\Desktop\\BaiMotorLib\\BaiMotorLib\\controllers\\openloop\\openloop.c",
+  "file": "C:/Users/bai/Desktop/BaiMotorLib/BaiMotorLib/controllers/openloop/openloop.c",
+  "output": "CMakeFiles/bai_motor_lib.dir/BaiMotorLib/controllers/openloop/openloop.c.obj"
+},
+{
+  "directory": "C:/Users/bai/Desktop/BaiMotorLib/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe  @CMakeFiles/test.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\test.dir\\main.c.obj -c C:\\Users\\bai\\Desktop\\BaiMotorLib\\main.c",
+  "file": "C:/Users/bai/Desktop/BaiMotorLib/main.c",
+  "output": "CMakeFiles/test.dir/main.c.obj"
+}
+]

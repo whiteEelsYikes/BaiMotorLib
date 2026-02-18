@@ -1,0 +1,2 @@
+C:\PROGRA~1\mingw64\bin\ar.exe qc libbai_drivers.a CMakeFiles/bai_drivers.dir/BaiMotorLib/drivers/dc_motor/test_drv.c.obj CMakeFiles/bai_drivers.dir/BaiMotorLib/drivers/sensors/test_drv.c.obj
+C:\PROGRA~1\mingw64\bin\ranlib.exe libbai_drivers.a
